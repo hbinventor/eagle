@@ -1,42 +1,20 @@
 [Eagle]
-Version="07 02 00"
-Platform="Linux"
+Version="07 05 00"
+Platform="Windows"
 Serial="62191E841E-LSR-WLM-1EL"
 Globals="Globals"
 Desktop="Desktop"
 
 [Globals]
 AutoSaveProject=1
-UsedLibrary="/home/blackcat/eagle/lbr/SparkFun/GeekAmmo.lbr"
-UsedLibrary="/home/blackcat/eagle/lbr/SparkFun/LilyPad-Wearables.lbr"
-UsedLibrary="/home/blackcat/eagle/lbr/SparkFun/SparkFun-Aesthetics.lbr"
-UsedLibrary="/home/blackcat/eagle/lbr/SparkFun/SparkFun-AnalogIC.lbr"
-UsedLibrary="/home/blackcat/eagle/lbr/SparkFun/SparkFun-Boards.lbr"
-UsedLibrary="/home/blackcat/eagle/lbr/SparkFun/SparkFun-Capacitors.lbr"
-UsedLibrary="/home/blackcat/eagle/lbr/SparkFun/SparkFun-Connectors.lbr"
-UsedLibrary="/home/blackcat/eagle/lbr/SparkFun/SparkFun-DigitalIC.lbr"
-UsedLibrary="/home/blackcat/eagle/lbr/SparkFun/SparkFun-DiscreteSemi.lbr"
-UsedLibrary="/home/blackcat/eagle/lbr/SparkFun/SparkFun-Displays.lbr"
-UsedLibrary="/home/blackcat/eagle/lbr/SparkFun/SparkFun-Electromechanical.lbr"
-UsedLibrary="/home/blackcat/eagle/lbr/SparkFun/SparkFun-FreqCtrl.lbr"
-UsedLibrary="/home/blackcat/eagle/lbr/SparkFun/SparkFun-LED.lbr"
-UsedLibrary="/home/blackcat/eagle/lbr/SparkFun/SparkFun-Passives.lbr"
-UsedLibrary="/home/blackcat/eagle/lbr/SparkFun/SparkFun-PowerIC.lbr"
-UsedLibrary="/home/blackcat/eagle/lbr/SparkFun/SparkFun-RF.lbr"
-UsedLibrary="/home/blackcat/eagle/lbr/SparkFun/SparkFun-Resistors.lbr"
-UsedLibrary="/home/blackcat/eagle/lbr/SparkFun/SparkFun-Retired.lbr"
-UsedLibrary="/home/blackcat/eagle/lbr/SparkFun/SparkFun-Sensors.lbr"
-UsedLibrary="/home/blackcat/eagle/lbr/SparkFun/User-Submitted.lbr"
-UsedLibrary="/home/blackcat/eagle/lbr/Adafruit/adafruit.lbr"
-UsedLibrary="/home/blackcat/eagle/lbr/ESP8266/esp8266modules.lbr"
-UsedLibrary="/home/blackcat/eagle/lbr/Relay/SRD-05VDC-SL-C.lbr"
+UsedLibrary="C:/Users/Administrator/Documents/eagle/lbr/ESP8266/esp8266modules.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="0 0 1279 750"
+Loc="0 0 1279 704"
 State=1
 Number=0
 
 [Desktop]
-Screen="1280 800"
+Screen="1280 1024"
 Window="Win_1"
